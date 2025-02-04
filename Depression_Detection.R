@@ -1,7 +1,7 @@
 #220:422 & 219:531 ADM&ML
 #Final Project, Spring 2024
 #Goal: Build Two Classifiers to identify "mdeSI" among adolescents
-#Your Full Name: Kenil Patwa
+#Your Full Name: Eshaa Gogia
 library(caret)
 library(corrplot)
 library(ggplot2)
